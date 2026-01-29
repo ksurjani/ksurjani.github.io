@@ -1102,3 +1102,16 @@ section .container {
   position: relative;
   z-index: 1;
 }
+
+/* Lock Home section background */
+#header {
+  background: linear-gradient(
+    rgba(2, 11, 24, 0.85),
+    rgba(2, 11, 24, 0.85)
+  ),
+  url("../img/bg.jpg") center center no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 10;
+}
+
