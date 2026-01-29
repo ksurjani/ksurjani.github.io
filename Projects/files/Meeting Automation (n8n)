@@ -1,0 +1,120 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>AI-Powered Meeting Automation</title>
+
+  <!-- Favicons -->
+  <link href="../../assets/img/favicon.png" rel="icon">
+  <link href="../../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Raleway:300,400,600,700|Poppins:300,400,600,700" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="../../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="../../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="../../assets/vendor/venobox/venobox.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="../../assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+<main id="main">
+  <div id="portfolio-details" class="portfolio-details">
+    <div class="container">
+
+      <div class="row">
+
+        <!-- LEFT / MAIN CONTENT -->
+        <div class="col-lg-12 portfolio-info">
+          <br>
+          <h2 style="color:#12d640">AI-Powered Meeting Automation</h2>
+
+          <ul>
+            <li>
+              <strong>Tech Stack</strong>:
+              n8n, OpenAI / LLMs, Slack API, Notion API, JavaScript, Prompt Engineering
+            </li>
+            <li>
+              <strong>Project Type</strong>:
+              Enterprise Workflow Automation (Case Study)
+            </li>
+          </ul>
+
+          <p>
+            Designed and implemented an end-to-end AI-powered meeting automation system that converts raw,
+            unstructured meeting notes into structured summaries, decisions, and actionable tasks.
+          </p>
+
+          <p>
+            The workflow uses <strong>n8n</strong> as the orchestration layer, integrates
+            <strong>LLM-based extraction</strong> for meeting intelligence, enables
+            <strong>Slack-based organizer review and approval</strong>, and publishes
+            approved content into a <strong>Notion knowledge base</strong>.
+          </p>
+
+          <p>
+            The system also expands approved action items into individual tasks and automatically notifies
+            assignees via Slack, eliminating manual follow-ups and improving accountability.
+          </p>
+
+          <h5 style="color:#12d640; margin-top:30px;">Key Capabilities</h5>
+          <ul>
+            <li>Automated ingestion and grouping of raw meeting notes</li>
+            <li>LLM-based extraction of summaries, decisions, and action items</li>
+            <li>Slack-based approval workflow for meeting organizers</li>
+            <li>Staging → final promotion to a centralized Notion knowledge base</li>
+            <li>Automatic creation and distribution of action items to assignees</li>
+          </ul>
+
+          <h5 style="color:#12d640; margin-top:30px;">Impact</h5>
+          <ul>
+            <li>Reduced manual meeting documentation effort by ~80–90%</li>
+            <li>Improved consistency and quality of meeting records</li>
+            <li>Increased follow-through on action items via automated reminders</li>
+          </ul>
+
+          <h5 style="color:#12d640; margin-top:30px;">Architecture Overview</h5>
+          <p>
+            Below is a high-level workflow diagram illustrating the system design
+            (simplified for confidentiality).
+          </p>
+
+          <!-- OPTIONAL IMAGE -->
+          <!-- Replace the src path with your actual image -->
+          <img
+            src="../../assets/img/projects/meeting-automation-workflow.png"
+            class="img-fluid"
+            alt="AI Powered Meeting Automation Workflow Diagram"
+            style="margin-top:20px; border-radius:8px;"
+          />
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<!-- Vendor JS Files -->
+<script src="../../assets/vendor/jquery/jquery.min.js"></script>
+<script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="../../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="../../assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+<script src="../../assets/vendor/counterup/counterup.min.js"></script>
+<script src="../../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+<script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="../../assets/vendor/venobox/venobox.min.js"></script>
+
+<!-- Template Main JS File -->
+<script src="../../assets/js/main.js"></script>
+
+</body>
+</html>
